@@ -3,9 +3,9 @@
 This app make consume the [Zoo Animal API](https://zoo-animal-api.herokuapp.com) to display lists of random animals with their name, Latin name and Habitat.
 
 To run this project run
-'''sh
+```sh
 git clone
-'''
+```
 
 ## Getting Started
 
