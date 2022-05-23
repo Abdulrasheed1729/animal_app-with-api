@@ -2,10 +2,21 @@
 
 This app make consume the [Zoo Animal API](https://zoo-animal-api.herokuapp.com) to display lists of random animals with their name, Latin name and Habitat.
 
+#### Architecture
+Bloc
+
+#### Installation
+
 To run this project run
 ```sh
-git clone
+git clone https://github.com/Abdulrasheed1729/animal_app-with-api.git
 ```
+and also run 
+
+```sh
+flutter pub get
+```
+to get the dependencies.
 
 ## Getting Started
 

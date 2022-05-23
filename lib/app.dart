@@ -9,7 +9,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Animal App',
-      theme: ThemeData.light(),
+      theme: ThemeData(
+        primarySwatch: Colors.purple,
+      ),
       home: const AnimalPage(),
     );
   }
