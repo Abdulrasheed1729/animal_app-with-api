@@ -1,7 +1,9 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter/cupertino.dart';
-import '../data/data_layer.dart';
+import 'package:animal_repository/animal_repository.dart';
+
+import '../models/models.dart';
 
 part 'animal_state.dart';
 
