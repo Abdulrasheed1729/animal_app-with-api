@@ -15,6 +15,13 @@ packages:
       relative: true
     source: path
     version: "0.0.0"
+  api_client:
+    dependency: "direct main"
+    description:
+      path: "packages/api_client"
+      relative: true
+    source: path
+    version: "0.0.0"
   async:
     dependency: transitive
     description:

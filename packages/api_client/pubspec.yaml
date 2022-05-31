@@ -1,0 +1,6 @@
+name: api_client
+description: A custom rest api client interface
+publish_to: none
+
+environment:
+  sdk:  ">=2.16.0 <3.0.0"
