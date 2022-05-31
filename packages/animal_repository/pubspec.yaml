@@ -1,0 +1,6 @@
+name: animal_repository
+description: A simple dart package for managing the domain of this app
+publish_to: none
+
+environment:
+  sdk:  ">=2.16.0 <3.0.0"

@@ -1,0 +1,8 @@
+name: animal_api
+description: A simple dart package for managing the api used in this app
+publish_to: none
+
+environment:
+  sdk:  ">=2.16.0 <3.0.0"
+dependencies:
+  http: ^0.13.4
