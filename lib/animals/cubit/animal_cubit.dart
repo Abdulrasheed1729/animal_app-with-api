@@ -3,8 +3,6 @@ import 'package:equatable/equatable.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:animal_repository/animal_repository.dart';
 
-import '../models/models.dart';
-
 part 'animal_state.dart';
 
 class AnimalCubit extends Cubit<AnimalState> {

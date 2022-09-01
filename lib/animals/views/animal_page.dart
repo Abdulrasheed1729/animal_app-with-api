@@ -5,8 +5,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:http/http.dart';
 
-import '../models/models.dart';
-
 class AnimalPage extends StatelessWidget {
   const AnimalPage({Key? key}) : super(key: key);
 
